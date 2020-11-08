@@ -20,6 +20,16 @@
     
   }
   
+.mention-person-img img{
+  border-radius: 100px;
+  width: 45px
+}
+
+ .box-content {
+   display: flex;
+   align-items: center;
+ }
+  
   .box {
     background-color: #ccc;
     border: 4px solid;
